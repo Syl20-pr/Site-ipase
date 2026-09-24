@@ -1,4 +1,4 @@
-# 🎓 Plateforme IPASE - Institut Polyvalent d'Avenir et de Santé
+# 🎓 Plateforme IPASE - Institut Professionnel Action Santé Éducation
 
 > **Plateforme Web de Présentation, d'Orientation et de Gestion des Inscriptions Scolaires & Étudiantes.**
 
@@ -11,7 +11,7 @@
 
 ## 📌 Présentation du Projet
 
-La plateforme **IPASE** est une solution web clé en main conçue pour l'**Institut Polyvalent d'Avenir et de Santé**. Elle combine un site vitrine moderne et responsive avec une plateforme de gestion administrative et un portail étudiant interactif.
+La plateforme **IPASE** est une solution web clé en main conçue pour l'**Institut Professionnel Action Santé Éducation**. Elle combine un site vitrine moderne et responsive avec une plateforme de gestion administrative et un portail étudiant interactif.
 
 Elle permet aux futurs étudiants de s'informer sur les cursus offerts, de s'inscrire directement en ligne, d'obtenir une attestation d'inscription au format PDF avec leurs identifiants, tout en offrant au secrétariat et à l'administration un tableau de bord complet de suivi et de gestion.
 
@@ -134,4 +134,4 @@ IPASE_HEBERGER/ipase_ready/
 
 ## 📄 Licence
 
-Projet réservé à l'**Institut Polyvalent d'Avenir et de Santé (IPASE)**. Tous droits réservés.
+Projet réservé à l'**Institut Professionnel Action Santé Éducation (IPASE)**. Tous droits réservés.
