@@ -1,0 +1,12 @@
+# Empêche l'affichage du contenu des dossiers si aucun index n'est présent
+Options -Indexes
+
+# Force la redirection vers HTTPS
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Bloque l'accès direct au fichier de config PHP local (dev uniquement)
+<FilesMatch "^php\.ini$">
+    Require all denied
+</FilesMatch>

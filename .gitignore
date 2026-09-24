@@ -1,0 +1,20 @@
+# Configuration locale contenant les accès réels
+config/config.local.php
+.env
+
+# Fichiers temporaires de sessions et logs PHP
+tmp/*
+!tmp/.gitkeep
+!tmp/.htaccess
+*.log
+
+# Fichiers d'environnement et IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
